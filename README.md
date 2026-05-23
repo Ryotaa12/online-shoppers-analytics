@@ -6,7 +6,7 @@ This repository contains the ITBAN 3 and ITBAN 4 final project for descriptive a
 Descriptive and Diagnostic Analytics of Online Shopping Customer Behavior
 
 ## Dataset
-- File used: `data/online_shoppers_intention.csv`
+- File used: `online_shoppers_intention.csv`
 - Original source: UCI Machine Learning Repository - Online Shoppers Purchasing Intention Dataset
 - Raw shape: 12,330 rows and 18 columns
 - Cleaned shape: 12,205 rows and 24 columns
@@ -22,7 +22,7 @@ What visitor behavior patterns separate purchasing sessions from non-purchasing 
    ```
 3. Open the notebook:
    ```bash
-   jupyter notebook notebooks/online_shoppers_analysis.ipynb
+   jupyter notebook online_shoppers_analysis.ipynb
    ```
 4. Run all cells from top to bottom.
 
